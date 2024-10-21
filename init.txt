@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 user1 update init
+=======
+user2 update init 
+>>>>>>> 41505a1245a2a1064f031997f53c18deed133b56
